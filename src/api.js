@@ -12,7 +12,7 @@ export const fetchMovies = async (page) => {
         },
         headers: {
             accept: 'application/json',
-            'X-API-KEY': 'J4Q0T05-Y3DM790-HGE9WH2-H9KBCPZ'
+            'X-API-KEY': 'YOUR API KEY'
         }
     };
 
